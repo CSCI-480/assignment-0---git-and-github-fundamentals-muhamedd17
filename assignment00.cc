@@ -13,8 +13,8 @@ int
 main(int argc, char *argv[])
 {
 
-	cout << "Data Structures are Important!!" << endl;   // Yes, I know there is a typo!!!
-	cout << "I'm very excited to be taking Data Structures" << endl;
+	cout << "Operating Systems are Important!!" << endl;
+	cout << "I'm very excited to be taking Operating Systems" << endl;
 	
 	return 0;
 
